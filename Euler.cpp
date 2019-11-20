@@ -40,7 +40,7 @@ int main(void){
         velocidad = velocidad_actual;
         distancia = distancia_actual;
      
-        cout<<t << velocidad_actual << distancia_actual <<endl;
+        cout<< t << "\t" << velocidad_actual <<"\t"<< distancia_actual <<endl;
     }
    cout << endl;
 return 0;
